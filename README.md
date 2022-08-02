@@ -9,4 +9,4 @@
 Projeto em PHP usando as operações de criação, consulta, atualização, e destruição de dados
 
 
-* Acredite em sua força de vontade, não desista tenha muita coragem e vontade a aprender.
+* Acredite em sua força de vontade, não desista tenha muita coragem e vontade de aprender.
